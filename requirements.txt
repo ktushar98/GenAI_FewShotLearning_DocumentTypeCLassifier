@@ -1,4 +1,4 @@
 pymupdf
-docx
+python-docx
 torch
-sentence_transformers
+sentence-transformers
