@@ -1,0 +1,5 @@
+fitz
+docx
+torch
+json
+sentence_transformers
